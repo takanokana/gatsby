@@ -1,8 +1,8 @@
 {
-  "name": "my-gatsby-site",
+  "name": "aaa",
   "version": "1.0.0",
   "private": true,
-  "description": "My Gatsby Site",
+  "description": "aaa",
   "author": "takanokana",
   "keywords": [
     "gatsby"
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "gatsby": "^3.0.1",
+    "gatsby-source-contentful": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
